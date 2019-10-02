@@ -6,4 +6,6 @@ Untuk melindungi data dari kerusakan dan kehilangan, PlanetCoops Syariah dilengk
 
 Pemulihan data dilakukan sebagai upaya mitigasi apabila terjadi kerusakan dan kehilangan data. Pemulihan data dilakukan dengan mengambil data cadangan yang terakhir. Data ini dipasang ke database aplikasi untuk selanjutnya diakses oleh aplikasi.  
 
+Adapun fitur aplikasi PlanetCoops Syariah dapat dilihat pada Manual.docx pada repository ini.
+
 Selengkapnya tentang aplikasi koperasi ini, silakan hubungi Kamshory. Whatsapp 081266612126
