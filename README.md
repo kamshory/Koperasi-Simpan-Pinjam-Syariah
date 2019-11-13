@@ -8,4 +8,7 @@ Pemulihan data dilakukan sebagai upaya mitigasi apabila terjadi kerusakan dan ke
 
 Adapun fitur aplikasi PlanetCoops Syariah dapat dilihat pada Manual.docx pada repository ini.
 
+URL demo aplikasi dapat diakses di https://ksps.planetbiru.com
+Username dan password administrator serta teller mohon untuk menghugungi Kamshory. 
+
 Selengkapnya tentang aplikasi koperasi ini, silakan hubungi Kamshory. Whatsapp 081266612126
