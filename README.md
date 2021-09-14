@@ -9,6 +9,8 @@ Pemulihan data dilakukan sebagai upaya mitigasi apabila terjadi kerusakan dan ke
 
 # Fitur Aplikasi 
 
+Fitur dasar dari PlanetCoops Syariah adalah sebagai berikut:
+
 1. Data Referensi Koperasi 
 2. Data Referensi Akuntansi 
 3. Administrator 
@@ -61,6 +63,8 @@ Pemulihan data dilakukan sebagai upaya mitigasi apabila terjadi kerusakan dan ke
   10.2. Jurnal<br> 
   10.3. Neraca<br> 
   10.4. Laporan Laba Rugi 
+  
+Selain dari fitur di atas, juga ada banyak fitur pendukung.
 
 URL demo aplikasi dapat diakses di http://ksps.planetbiru.com
 
