@@ -69,6 +69,12 @@ Fitur dasar dari PlanetCoops Syariah adalah sebagai berikut:
   10.3. Neraca<br> 
   10.4. Laporan Laba Rugi 
   
+# Aplikasi Mobile Nasabah
+
+PlanetCoops Syariah menyediakan aplikasi mobile untuk nasabah. Saat ini aplikasi mobile tersedia untuk pengguna Android. Untuk pengguna iOS dapat mengakses website internet banking dengan fitur yang sama.
+
+Nasabah dapat melakukan transfer dana antar rekening melalui aplikasi mobile dan internet banking.
+
 Selain dari fitur di atas, juga ada banyak fitur pendukung.
 
 URL demo aplikasi dapat diakses di http://ksps.planetbiru.com
