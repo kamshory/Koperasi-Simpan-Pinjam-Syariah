@@ -83,5 +83,7 @@ Username dan password administrator serta teller mohon untuk menghugungi Kamshor
 
 Selengkapnya tentang aplikasi koperasi ini, silakan hubungi Kamshory. Whatsapp 081266612126
 
+Silakan kunjungi website resmi kami di http://planetbiru.com
+
 Silakan subscribe ke channel YouTube berikut untuk melihat tutorial penggunaan Koperasi Silakan Pinjam Syariah
 https://www.youtube.com/watch?v=0cT4ULZwdKY&t=426s
