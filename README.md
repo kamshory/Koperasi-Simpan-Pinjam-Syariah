@@ -77,13 +77,13 @@ Nasabah dapat melakukan transfer dana antar rekening melalui aplikasi mobile dan
 
 Selain dari fitur di atas, juga ada banyak fitur pendukung.
 
-URL demo aplikasi dapat diakses di http://ksps.planetbiru.com
+URL demo aplikasi dapat diakses di http://ksps-trial.planetbiru.com
 
 Username dan password administrator serta teller mohon untuk menghugungi Kamshory. 
 
 Selengkapnya tentang aplikasi koperasi ini, silakan hubungi Kamshory. Whatsapp 081266612126
 
-Silakan kunjungi website resmi kami di http://planetbiru.com
+Silakan kunjungi website resmi kami di https://planetbiru.com
 
 Silakan subscribe ke channel YouTube berikut untuk melihat tutorial penggunaan Koperasi Silakan Pinjam Syariah
 https://www.youtube.com/watch?v=0cT4ULZwdKY&t=426s
