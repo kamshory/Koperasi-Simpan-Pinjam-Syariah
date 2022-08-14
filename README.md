@@ -3,6 +3,10 @@
 
 PlanetCoops Syariah adalah aplikasi koperasi simpan pinjam syariah berbasis web yang dapat dijalankan di hampir semua browser modern. Aplikasi ini menggunakan database untuk menyimpan data-data transaksi. Beberapa data-data seperti dokumen office dan gambar disimpan dalam bentuk file.
 
+# Aplikasi Android
+
+Alikasi Android bisa Anda dapatkan di sini https://github.com/kamshory/KSP-Syariah-Planetbiru 
+
 
 **Tonton Video Berikut**
 
