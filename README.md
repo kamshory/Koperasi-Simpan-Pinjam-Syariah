@@ -66,7 +66,8 @@ Fitur dasar dari PlanetCoops Syariah adalah sebagai berikut:
 9. Data Nasabah<br> 
   9.1. Rekening<br> 
   9.2. Pembelian<br> 
-  9.3. Nasabah 
+  9.3. Nasabah<br> 
+  9.4. Aktivasi Aplikasi Mobile 
 10. Akuntansi<br> 
   10.1. Pendapatan<br> 
   10.2. Jurnal<br> 
